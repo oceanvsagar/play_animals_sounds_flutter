@@ -1,0 +1,46 @@
+{
+  "questions": [
+    {
+      "question": "1 What is Apple?",
+      "options": ["A. Fruit", "B. Flower", "C. Plant", "D. Animal"]
+    },
+    {
+      "question": "Question 2?",
+      "options": ["Option A", "Option B", "Option C", "Option D"]
+    },
+    {
+      "question": "Question 3?",
+      "options": ["Option A", "Option B", "Option C", "Option D"]
+    },
+    {
+      "question": "Question 4?",
+      "options": ["Option A", "Option B", "Option C", "Option D"]
+    },
+    {
+      "question": "Question 5?",
+      "options": ["Option A", "Option B", "Option C", "Option D"]
+    },
+    {
+      "question": "Question 6?",
+      "options": ["Option A", "Option B", "Option C", "Option D"]
+    },
+    {
+      "question": "Question 7?",
+      "options": ["Option A", "Option B", "Option C", "Option D"]
+    },
+    {
+      "question": "Question 8?",
+      "options": ["Option A", "Option B", "Option C", "Option D"]
+    },
+    {
+      "question": "Write an essay about Environment?",
+      "options":  ["Option A", "Option B", "Option C", "Option D"]
+    },
+    {
+      "question": "Fill in the blank: Flutter is a _____ UI toolkit.",
+      "options": ["Option A", "Option B", "Option C", "Option D"]
+    }
+  ],
+  "tabs": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+  "timings": 30
+}
